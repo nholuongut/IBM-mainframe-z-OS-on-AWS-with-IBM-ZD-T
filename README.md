@@ -2,6 +2,9 @@
 
 This CloudFormation template is provided as part of the AWS Blog Post [Deploying IBM mainframe z/OS on AWS with IBM ZD&T](https://aws.amazon.com/blogs/apn/deploying-ibm-mainframe-z-os-on-aws-with-ibm-zd-and-t/).
 
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
 ### Provisioning the Infrastructure  
 
 This CloudFormation template or script allows you to provision all the necessary components to have IBM ZD&T up and running on AWS, with the architecture seen on Figure 1.
@@ -124,15 +127,17 @@ Or, if you would like to understand how the ADCD image that is delivered togethe
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
-### [Contact an Author]
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
